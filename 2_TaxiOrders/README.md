@@ -9,9 +9,11 @@
 1. Качество прогнозирования оценивать по метрике RMSE, значение метрики на тестовой выборке не должно превышать 48.
 2. Размер тестовой выборки должен составлять 10% от исходных данных.
 
-**Используемые библиотеки:**
-`pandas`, `numpy`, `seaborn`, `matplotlib`, `math`, `warnings`, `statsmodels`, `sklearn`, `xgboost`, `lightgbm`, `catboost`
+**Статус проекта:**
+проект закончен, решение в формате Jupyter Notebook.
 
+**Используемые библиотеки:**
+`pandas`, `numpy`, `seaborn`, `matplotlib`, `math`, `warnings`, `statsmodels`, `sklearn`, `xgboost`, `lightgbm`, `catboost`<br>
 **Используемые ML-модели:**
 `LinearRegression`, `XGBRegressor`, `LGBMRegressor`, `CatBoostRegressor`
 

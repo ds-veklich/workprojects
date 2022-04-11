@@ -11,9 +11,11 @@
 2. Время обучения не должно превышать 1 минуту.
 3. Время прогнозирования не должно превышать 300 мс.
 
-**Используемые библиотеки:**
-`pandas`, `numpy`, `re`, `seaborn`, `matplotlib`, `math`, `warnings`, `sklearn`, `lightgbm`, `catboost`
+**Статус проекта:**
+проект закончен, решение в формате Jupyter Notebook.
 
+**Используемые библиотеки:**
+`pandas`, `numpy`, `re`, `seaborn`, `matplotlib`, `math`, `warnings`, `sklearn`, `lightgbm`, `catboost`<br>
 **Используемые ML-модели:**
 `DecisionTreeRegressor`, `LinearRegression`, `LGBMRegressor`, `CatBoostRegressor`
 
